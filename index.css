@@ -1,5 +1,7 @@
 body {
   font-family: Arial;
+  width: 100%;
+  position: static;
 }
 
 h1 {
@@ -206,4 +208,5 @@ footer {
   padding-bottom: 20px;
   margin-left: -350px;
   margin-top: 80px;
+
 }
