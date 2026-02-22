@@ -1,0 +1,195 @@
+body {
+  font-family: Arial;
+}
+
+h1 {
+  text-align: center;
+}
+
+h4 {
+  font-weight: lighter;
+}
+
+.side-nav {
+  background-color: rgb(8, 8, 110);
+  max-width: 250px;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 650px;
+  color: white;
+}
+
+.home-btn {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 195px;
+  padding-left: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  background-color:  rgb(86, 86, 143);
+  border-radius: 8px;
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+  transition: 0.5s;
+}
+
+.home-btn:hover {
+  background-color: rgb(21, 108, 119);
+  color: rgb(156, 190, 62);
+}
+
+.home-btn:active {
+  color: brown;
+  background-color: gold;
+}
+
+.about-btn {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 195px;
+  padding-left: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  background-color:  rgb(86, 86, 143);
+  border-radius: 8px;
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+  transition: 0.5s;
+}
+
+.about-btn:hover {
+  background-color: rgb(21, 108, 119);
+  color: rgb(156, 190, 62);
+}
+
+.about-btn:active {
+  color: brown;
+  background-color: gold;
+}
+
+.service-btn {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 173px;
+  padding-left: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  background-color:  rgb(86, 86, 143);
+  border-radius: 8px;
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+  transition: 0.5s;
+}
+
+.service-btn:hover {
+  background-color: rgb(21, 108, 119);
+  color: rgb(156, 190, 62);
+}
+
+.service-btn:active {
+  color: brown;
+  background-color: gold;
+}
+
+.contact-btn {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 178px;
+  padding-left: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  background-color:  rgb(86, 86, 143);
+  border-radius: 8px;
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+  transition: 0.5s;
+}
+
+.contact-btn:hover {
+  background-color: rgb(21, 108, 119);
+  color: rgb(156, 190, 62);
+}
+
+.contact-btn:active {
+  color: brown;
+  background-color: gold;
+}
+
+.portfolio-btn {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 172px;
+  padding-left: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  background-color:  rgb(86, 86, 143);
+  border-radius: 8px;
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+  transition: 0.5s;
+}
+
+.portfolio-btn:hover {
+  background-color: rgb(21, 108, 119);
+  color: rgb(156, 190, 62);
+}
+
+.portfolio-btn:active {
+  color: brown;
+  background-color: gold;
+}
+
+.giveaway-btn {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 162px;
+  padding-left: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  background-color:  rgb(86, 86, 143);
+  border-radius: 8px;
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+  transition: 0.5s;
+}
+
+.giveaway-btn:hover {
+  background-color: rgb(21, 108, 119);
+  color: rgb(156, 190, 62);
+}
+
+.giveaway-btn:active {
+  color: brown;
+  background-color: gold;
+}
+.main {
+  margin-left: 350px;
+  margin-top: -1050px;
+}
+
+.gayus-img {
+  width: 400px;
+  text-align: center;
+}
+
+fieldset {
+  background-color: rgb(230, 236, 218);
+  font-weight: bold;
+}
+
+footer {
+  background-color: blueviolet;
+  padding-top: 15px;
+  padding-left: 20px;
+  text-align: center;
+  padding-bottom: 20px;
+  margin-left: -350px;
+  margin-top: 80px;
+}
