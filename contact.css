@@ -1,0 +1,237 @@
+body {
+  font-family: Arial;
+  background-color: rgb(207, 202, 202);
+}
+
+h4 {
+  font-weight: lighter;
+}
+.side-nav {
+  background-color: rgb(8, 8, 110);
+  max-width: 250px;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 350px;
+  color: white;
+}
+
+.home-btn {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 195px;
+  padding-left: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  background-color:  rgb(86, 86, 143);
+  border-radius: 8px;
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+  transition: 0.5s;
+}
+
+.home-btn:hover {
+  background-color: rgb(21, 108, 119);
+  color: rgb(156, 190, 62);
+}
+
+.home-btn:active {
+  color: brown;
+  background-color: gold;
+}
+
+.about-btn {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 195px;
+  padding-left: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  background-color:  rgb(86, 86, 143);
+  border-radius: 8px;
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+  transition: 0.5s;
+}
+
+.about-btn:hover {
+  background-color: rgb(21, 108, 119);
+  color: rgb(156, 190, 62);
+}
+
+.about-btn:active {
+  color: brown;
+  background-color: gold;
+}
+
+.service-btn {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 173px;
+  padding-left: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  background-color:  rgb(86, 86, 143);
+  border-radius: 8px;
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+  transition: 0.5s;
+}
+
+.service-btn:hover {
+  background-color: rgb(21, 108, 119);
+  color: rgb(156, 190, 62);
+}
+
+.service-btn:active {
+  color: brown;
+  background-color: gold;
+}
+
+.contact-btn {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 178px;
+  padding-left: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  background-color:  rgb(86, 86, 143);
+  border-radius: 8px;
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+  transition: 0.5s;
+}
+
+.contact-btn:hover {
+  background-color: rgb(21, 108, 119);
+  color: rgb(156, 190, 62);
+}
+
+.contact-btn:active {
+  color: brown;
+  background-color: gold;
+}
+
+.portfolio-btn {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 172px;
+  padding-left: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  background-color:  rgb(86, 86, 143);
+  border-radius: 8px;
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+  transition: 0.5s;
+}
+
+.portfolio-btn:hover {
+  background-color: rgb(21, 108, 119);
+  color: rgb(156, 190, 62);
+}
+
+.portfolio-btn:active {
+  color: brown;
+  background-color: gold;
+}
+
+.giveaway-btn {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 162px;
+  padding-left: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  background-color:  rgb(86, 86, 143);
+  border-radius: 8px;
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+  transition: 0.5s;
+}
+
+.giveaway-btn:hover {
+  background-color: rgb(21, 108, 119);
+  color: rgb(156, 190, 62);
+}
+
+.giveaway-btn:active {
+  color: brown;
+  background-color: gold;
+}
+
+.main {
+  margin-left: 350px;
+  margin-top: -730px;
+}
+
+.email-div {
+  background-color: white;
+  max-width: 200px;
+  padding-left: 80px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 8px;
+  text-decoration: none;
+  margin-top: 50px;
+}
+
+.Whatsapp-div {
+  background-color: white;
+  max-width: 200px;
+  padding-left: 80px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 8px;
+  text-decoration: none;
+  margin-left: 350px;
+  margin-top: -55px;
+}
+
+.LinkedIn-div {
+  background-color: white;
+  max-width: 200px;
+  padding-left: 80px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 8px;
+  text-decoration: none;
+  margin-left: 700px;
+  margin-top: -55px;
+}
+
+h2 {
+  margin-top: 80px;
+}
+
+.name-input {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 150px;
+  border: none;
+  border-radius: 5px;
+}
+
+.email-input {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 150px;
+  border: none;
+  border-radius: 5px;
+  margin-left: 500px;
+  margin-top: -10px;
+}
+
+.subject-input {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 150px;
+  border: none;
+  border-radius: 5px;
+}
